@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Varada Sasidhar</h1>
 <h3 align="center">I am a project engineer in IIIT-Hyderabad. I am passionate about mobile technology and IoT. Welcome to my GitHub profile!</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 - 🔭 I’m currently working on **focusing on real-time research on IoT devices and conducting data analysis**
 
 - 🌱 I’m currently learning **Real time embedded systems**
