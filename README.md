@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **real-time research on IoT devices**
 
-- 🌱 I’m currently learning **Real time embedded systems**
+- 🌱 I’m currently learning **Real-time embedded systems**
 
 - 👯 I’m looking to collaborate on **projects related to IoT and environmental research together**
 
