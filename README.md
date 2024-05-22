@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **varadasasidhar03@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/17EyCaY664VLAGf17-Y5MDfYYtKYZu5jr/view](https://drive.google.com/file/d/17EyCaY664VLAGf17-Y5MDfYYtKYZu5jr/view)
+- 📄 Know about my experiences [https://drive.google.com/file/d/17EyCaY664VLAGf17-Y5MDfYYtKYZu5jr/view](https://iiitaphyd-my.sharepoint.com/:b:/g/personal/ushasree_mogadali_research_iiit_ac_in/EQWw1LT_nDVLoJL4t2z8l3gB01Vkm1pGQksaqTx4XgWBgg?e=2JSmMq)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
