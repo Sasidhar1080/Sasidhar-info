@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **projects related to IoT and environmental research together**
 
-- 💬 Ask me about **IoT & Aptitude**
+- 💬 Ask me about **IoT , Embedded systems & Aptitude**
 
 - 📫 How to reach me **varadasasidhar03@gmail.com**
 
