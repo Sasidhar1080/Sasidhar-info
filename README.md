@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Varada Sasidhar</h1>
-<h3 align="center">Project Engineer at IIIT-Hyderabad.</h3>
+<h3 align="center">A Passionate Engineer from India.</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sasidhar1080&label=Profile%20views&color=0e75b6&style=flat" alt="sasidhar1080" /> </p>
 
