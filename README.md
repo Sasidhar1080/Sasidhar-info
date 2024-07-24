@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sasidharvarada" alt="sasidharvarada" /></a> </p>
 
-- 🔭 I’m currently working on **real-time research on IoT devices**
+- 🔭 I’m currently studying for **Master of Science by Research at IIIT, Hyderabad**
 
 - 🌱 I’m currently learning **Real-time embedded systems**
 
